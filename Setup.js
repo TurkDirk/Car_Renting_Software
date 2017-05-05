@@ -11,7 +11,7 @@ My SQL Server
 function setup() { 
   createCanvas(400, 400);
 	var carsRented
-	var   
+	var stockCars
 } 
 
 function draw() { 
